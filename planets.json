@@ -1,0 +1,65 @@
+[
+    {
+		"id": 1,
+        "planet": "Mercury",
+        "moons": 0,
+        "diameter": 4879,
+        "distanceFromSun": 57.9
+    },
+    {
+		"id": 2,
+        "planet": "Venus",
+        "moons": 0,
+        "diameter": 12104,
+        "distanceFromSun": 108.2
+    },
+    {
+		"id": 3,
+        "planet": "Earth",
+        "moons": 1,
+        "diameter": 12756,
+        "distanceFromSun": 149.6
+    },
+    {
+		"id": 4,
+        "planet": "Mars",
+        "moons": 0,
+        "diameter": 6792,
+        "distanceFromSun": 227.9
+    },
+    {
+		"id": 5,
+        "planet": "Jupiter",
+        "moons": 67,
+        "diameter": 142984,
+        "distanceFromSun": 778.6
+    },
+    {
+		"id": 6,
+        "planet": "Saturn",
+        "moons": 62,
+        "diameter": 120536,
+        "distanceFromSun": 1433.5
+    },
+    {
+		"id": 7,
+        "planet": "Uranus",
+        "moons": 27,
+        "diameter": 51118,
+        "distanceFromSun": 2872.5
+    },
+    {
+		"id": 8,
+        "planet": "Neptune",
+        "moons": 14,
+        "diameter": 49528,
+        "distanceFromSun": 4495.1
+    },
+    {
+		"id": 9,
+        "planet": "Pluto(Dwarf-Planet)",
+        "moons": 5,
+        "diameter": 2370,
+        "distanceFromSun": 5906.4
+    }
+]{"id":"cl2gy3etb0000vss980iha93l","planet":"PlanetX","moons":0,"diameter":4879,"distanceFromSun":57.9}
